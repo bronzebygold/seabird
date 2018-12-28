@@ -1,0 +1,1169 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400');
+
+
+.wireframe1 {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 7715px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.wireframe1 .rectangle {
+  background-color    : rgba(74, 73, 74, 1.0);
+  top                 : 0px;
+  height              : 535px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 535px;
+  height              : 330px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy {
+  background-color    : rgba(175, 174, 174, 1.0);
+  top                 : 535px;
+  height              : 330px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 480px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy2 {
+  background-color    : rgba(123, 121, 121, 1.0);
+  top                 : 535px;
+  height              : 330px;
+  width               : 480px;
+  position            : absolute;
+  margin              : 0;
+  left                : 960px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .aboutseabird {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 917px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 166px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .residentroaster {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1665px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 161px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .pastroasters {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2500px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 161px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .purveyors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3446px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .contactus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5272px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 251px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .rectangle3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1741px;
+  height              : 126px;
+  box-sizing          : border-box;
+  width               : 446px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 254px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .aboutus {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 726px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .roaster {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 813px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .purveyors1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 887px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .contact {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 967px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .merch {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1137px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 60px;
+  width               : 467px;
+  position            : absolute;
+  margin              : 0;
+  left                : 975px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .facebook {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1001px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .instagram {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1081px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .spotify {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 80px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1164px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1023px;
+  height              : 2px;
+  width               : 1474px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 988px;
+  height              : 617px;
+  box-sizing          : border-box;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 167px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy3 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 988px;
+  height              : 617px;
+  box-sizing          : border-box;
+  width               : 636px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .image {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1127px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 783px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1151px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 413px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .textcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1781px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 413px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .rectangle6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1893px;
+  height              : 541px;
+  box-sizing          : border-box;
+  width               : 445px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1893px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2083px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2273px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 1893px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 830px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2083px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 830px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy32 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2273px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 444px;
+  position            : absolute;
+  margin              : 0;
+  left                : 830px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .imagecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2097px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 477px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "AppleSystemUIFont", Helvetica, Arial, serif;
+  font-size           : 17.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.wireframe1 .rectangle8 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2585px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy10 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2775px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy14 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2965px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy18 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3155px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle9 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2585px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 355px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy11 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2775px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 355px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy15 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2965px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 355px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy19 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3155px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 355px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy8 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2585px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 545px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy12 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2775px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 545px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy16 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2965px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 545px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy20 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3155px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 545px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy9 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2585px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy13 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2775px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy17 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2965px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy21 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3155px;
+  height              : 160px;
+  box-sizing          : border-box;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle10 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 2585px;
+  height              : 350px;
+  box-sizing          : border-box;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 925px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .form {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2685px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1050px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .rectangle11 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3520px;
+  height              : 258px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy22 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3808px;
+  height              : 258px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy23 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 4096px;
+  height              : 258px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy231 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 4384px;
+  height              : 258px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy232 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 4672px;
+  height              : 258px;
+  box-sizing          : border-box;
+  width               : 258px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle12 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3602px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 453px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy24 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 3908px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 453px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy25 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 4195px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 453px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy26 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 4475px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 453px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy27 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 4769px;
+  height              : 45px;
+  box-sizing          : border-box;
+  width               : 290px;
+  position            : absolute;
+  margin              : 0;
+  left                : 453px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectangle13 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 5348px;
+  height              : 540px;
+  box-sizing          : border-box;
+  width               : 450px;
+  position            : absolute;
+  margin              : 0;
+  left                : 255px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .rectanglecopy31 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 5348px;
+  height              : 540px;
+  box-sizing          : border-box;
+  width               : 450px;
+  position            : absolute;
+  margin              : 0;
+  left                : 733px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.wireframe1 .formcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5537px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 394px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .image1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5538px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 844px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "San Francisco", Helvetica, Arial, serif;
+  font-size           : 50.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+}
+.wireframe1 .rectangle14 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 6849px;
+  height              : 250px;
+  box-sizing          : border-box;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
